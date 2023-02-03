@@ -1,0 +1,7 @@
+{
+  "name": "tg-sender",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
